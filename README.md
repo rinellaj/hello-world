@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-first repository
+Hi wassup people.
+Just started Github.
